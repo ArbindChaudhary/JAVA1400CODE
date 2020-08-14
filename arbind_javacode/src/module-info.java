@@ -1,0 +1,2 @@
+module arbind_javacode {
+}
